@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guestbook", "Guestbook\Guestbook.csproj", "{8092A427-E120-4FD4-AE3B-BB8D8E008BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guestbook.Tests", "Guestbook.Tests\Guestbook.Tests.csproj", "{DB2A8A77-2B61-41B5-A22C-D318EA246406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8092A427-E120-4FD4-AE3B-BB8D8E008BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8092A427-E120-4FD4-AE3B-BB8D8E008BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8092A427-E120-4FD4-AE3B-BB8D8E008BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8092A427-E120-4FD4-AE3B-BB8D8E008BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2A8A77-2B61-41B5-A22C-D318EA246406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2A8A77-2B61-41B5-A22C-D318EA246406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2A8A77-2B61-41B5-A22C-D318EA246406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2A8A77-2B61-41B5-A22C-D318EA246406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
