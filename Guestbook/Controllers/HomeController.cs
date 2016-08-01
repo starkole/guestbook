@@ -16,6 +16,7 @@ namespace Guestbook.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            ViewBag.CurrentDate = DateTime.Now;
 
             return View();
         }
